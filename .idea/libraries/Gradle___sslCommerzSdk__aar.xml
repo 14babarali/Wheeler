@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :sslCommerzSdk:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9856c12f63da17ecfd186e7cc817e148/jetified-sslCommerzSdk/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9856c12f63da17ecfd186e7cc817e148/jetified-sslCommerzSdk/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9856c12f63da17ecfd186e7cc817e148/jetified-sslCommerzSdk/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
